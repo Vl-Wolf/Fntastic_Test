@@ -1,4 +1,4 @@
-#Folders
+# Folders
 Binaries
 DerivedDataCache
 Intermediate
@@ -6,9 +6,8 @@ Saved
 .vscode
 .vs
 .idea
-SSH_Keygen/SSH_Key
 
-#Files
+# Files
 *.VC.db
 *.opensdf
 *.opendb
@@ -17,3 +16,5 @@ SSH_Keygen/SSH_Key
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.vsconfig
+*_BuiltData.uasset
